@@ -1,16 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=400&section=header&text=Hello%20World!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=20)
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://raksha-portfolio.com">
     <img src="https://img.shields.io/badge/🌐 Portfolio-raksha--portfolio.com-blueviolet?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
 
-</div>
+</div> -->
 
 <br/>
 
