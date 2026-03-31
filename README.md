@@ -35,7 +35,7 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raksha-verma)
+[![LinkedIn](https://www.linkedin.com/in/raksha-verma-b36453279/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raksha@gmail.com)
 
