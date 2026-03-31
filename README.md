@@ -74,7 +74,7 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 <div align="center">
 
