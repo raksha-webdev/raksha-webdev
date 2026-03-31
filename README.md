@@ -14,22 +14,22 @@
 
 <br/>
 
-## 🙋‍♀️ I'm Raksha Verma!
+##  I'm Raksha Verma!
 
 **Web Developer | MCA Student @ AKTU**
 
 I am a passionate Web Developer building responsive and user-friendly web applications. Currently working at **Ezeonsoft Technology, Lucknow** while pursuing MCA from Dr. APJ Abdul Kalam Technical University.
 
-- 🌱 Currently learning **Advanced Laravel • Clean Architecture • Better UI/UX**
-- 💼 Working as a **Web Developer** at Ezeonsoft Technology, Lucknow
-- 🎓 Pursuing **MCA** from Dr. A.P.J. Abdul Kalam Technical University
-- 🏅 Completed **PHP Summer Training (2024)**
-- 🚀 6-month Internship at **Digital Nawab, Lucknow**
-- ❤️ Love building **Clean UI with scalable code**
+-  Currently learning **Advanced Laravel • Clean Architecture • Better UI/UX**
+-  Working as a **Web Developer** at Ezeonsoft Technology, Lucknow
+-  Pursuing **MCA** from Dr. A.P.J. Abdul Kalam Technical University
+-  Completed **PHP Summer Training (2024)**
+-  6-month Internship at **Digital Nawab, Lucknow**
+-  Love building **Clean UI with scalable code**
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 <div align="left">
 
@@ -41,7 +41,7 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -58,7 +58,7 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 ---
 
-## 📊 GitHub Stats
+
 
 
 ---
