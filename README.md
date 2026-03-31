@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-raksha--portfolio.com-blueviolet?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:raksha@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-raksha@gmail.com-EA4335?style=for-the-badge" />
+  <a href="mailto:rakshavermasayar@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-rakshavermasayar@gmail.com-EA4335?style=for-the-badge" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 <div align="left">
 
-[![LinkedIn](https://www.linkedin.com/in/raksha-verma-b36453279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha-verma-b36453279/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raksha@gmail.com)
 
