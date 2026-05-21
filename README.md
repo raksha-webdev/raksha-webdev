@@ -33,9 +33,11 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raksha-verma-b36453279/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshavermasayar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c1c)](https://www.linkedin.com/in/raksha-verma-b36453279/)
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-232526?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=414345)](https://pinterest.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3a3a3a)](mailto:rakshavermasayar@gmail.com)
 
 </div>
 
