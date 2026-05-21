@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=400&section=header&text=Hello%20World!%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=400&section=header&text=Hello%20World!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=20&color=0:000000,100:2c2c2c)
 
 </div>
 
@@ -81,6 +81,6 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:2c2c2c)
 
 </div>
