@@ -45,20 +45,29 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 ##  Tech Stack
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1e1e2f?style=for-the-badge&logo=php&logoColor=AEB2D5&labelColor=111111)
 
----
+![Laravel](https://img.shields.io/badge/Laravel-1c1c1c?style=for-the-badge&logo=laravel&logoColor=ff4d4d&labelColor=2b2b2b)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=b784ff&labelColor=2d2d2d)
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-111111?style=for-the-badge&logo=codeigniter&logoColor=ff6b35&labelColor=2a2a2a)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8&labelColor=1e293b)
+
+![Apache](https://img.shields.io/badge/Apache-1b1b1b?style=for-the-badge&logo=apache&logoColor=d22128&labelColor=333333)
+
+![MySQL](https://img.shields.io/badge/MySQL-101820?style=for-the-badge&logo=mysql&logoColor=4ea1ff&labelColor=1f2937)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=2d2d2d)
+
+![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=ff6a3d&labelColor=2c2c2c)
+
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=4da3ff&labelColor=1f2937)
+
+![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=ff7849&labelColor=2b2b2b)
+
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=21262d)---
 
 
 
