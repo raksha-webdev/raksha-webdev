@@ -45,30 +45,33 @@ I am a passionate Web Developer building responsive and user-friendly web applic
 
 ##  Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-1e1e2f?style=for-the-badge&logo=php&logoColor=AEB2D5&labelColor=111111)
+<p align="left">
 
-![Laravel](https://img.shields.io/badge/Laravel-1c1c1c?style=for-the-badge&logo=laravel&logoColor=ff4d4d&labelColor=2b2b2b)
+<img src="https://img.shields.io/badge/PHP-1e1e2f?style=for-the-badge&logo=php&logoColor=AEB2D5&labelColor=111111" />
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=b784ff&labelColor=2d2d2d)
+<img src="https://img.shields.io/badge/Laravel-1c1c1c?style=for-the-badge&logo=laravel&logoColor=ff4d4d&labelColor=2b2b2b" />
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-111111?style=for-the-badge&logo=codeigniter&logoColor=ff6b35&labelColor=2a2a2a)
+<img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=b784ff&labelColor=2d2d2d" />
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8&labelColor=1e293b)
+<img src="https://img.shields.io/badge/CodeIgniter-111111?style=for-the-badge&logo=codeigniter&logoColor=ff6b35&labelColor=2a2a2a" />
 
-![Apache](https://img.shields.io/badge/Apache-1b1b1b?style=for-the-badge&logo=apache&logoColor=d22128&labelColor=333333)
+<img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8&labelColor=1e293b" />
 
-![MySQL](https://img.shields.io/badge/MySQL-101820?style=for-the-badge&logo=mysql&logoColor=4ea1ff&labelColor=1f2937)
+<img src="https://img.shields.io/badge/Apache-1b1b1b?style=for-the-badge&logo=apache&logoColor=d22128&labelColor=333333" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=2d2d2d)
+<img src="https://img.shields.io/badge/MySQL-101820?style=for-the-badge&logo=mysql&logoColor=4ea1ff&labelColor=1f2937" />
 
-![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=ff6a3d&labelColor=2c2c2c)
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=2d2d2d" />
 
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=4da3ff&labelColor=1f2937)
+<img src="https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=ff6a3d&labelColor=2c2c2c" />
 
-![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=ff7849&labelColor=2b2b2b)
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=4da3ff&labelColor=1f2937" />
 
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=21262d)---
+<img src="https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=ff7849&labelColor=2b2b2b" />
 
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=21262d" />
+
+</p>
 
 
 
